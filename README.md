@@ -11,3 +11,4 @@ See the video where I explain more about the project [here](https://youtu.be/EVO
 <img src='https://github.com/Ronak99/Shimmer-Effect-Flutter/blob/master/ss/second.gif' align='left' width='25%'>
 
 <img src='https://github.com/Ronak99/Shimmer-Effect-Flutter/blob/master/ss/third.gif' width='25%'>
+000
